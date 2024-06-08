@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
       <p>
-        <h1>Chào mừng bạn đến với Lập trình Front end"</h1>
+        <h1>Chào mừng bạn đến với dttec</h1>
       </p>
       </header>
     </div>
